@@ -1,0 +1,99 @@
+body {
+    background-color:peachpuff;
+}
+
+a:link {
+    color: green;
+}
+
+a:hover {
+    opacity: 0.6;
+    font-size: 30px;
+    color:salmon;
+    }
+
+nav {
+    float: right;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    margin-top: 20px;
+    padding: 10px;
+    word-spacing: 8px;
+    border: blue 20px outset;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border: skyblue 40px outset;
+    float:right;
+}
+.img {
+    text-align: center;
+}
+
+h1 {
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    text-align: center;
+    margin:right;
+
+}
+
+ol {
+
+    border: skyblue 30px inset;
+}
+
+
+/* h1 {
+    border: skyblue 20px outset;
+    width: 50%;
+    height: 150px;
+    padding: 50px 10px;
+    margin: 150px 10px;
+}
+
+h2 {
+    border:teal 20px inset;
+    width: 50%;
+    height: 150px;
+    padding: 50px 10px;
+}
+
+p {
+    border:pink 20px ridge;
+    width: 50%;
+    height: 150px;
+    padding: 50px 10px;
+}
+
+
+/*selector-it selects all elements in HTML*/
+
+
+
+/* h1 h2, .para {
+
+    font-size: 50px;
+    color: blue;
+
+}
+
+.name, .para {
+    color: purple
+    font-size:40px; */
+
+/*changed the heading/*
