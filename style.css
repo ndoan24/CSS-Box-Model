@@ -36,8 +36,8 @@ a {
 .island {
     border: skyblue 30px outset;
     float:left;
-}
-
+    }
+      
 .shutter {
     float:right;
 }
