@@ -1,12 +1,17 @@
 body {
-    background-color:peachpuff;
+    background-color:rgb(15, 1, 1);
 }
 
 a:link {
     color: green;
 }
 
-a:hover {
+.para {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: skyblue;
+}
+a:hover {S
     opacity: 0.6;
     font-size: 30px;
     color:salmon;
@@ -14,39 +19,40 @@ a:hover {
 
 nav {
     float: right;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
+    color: rgb(250, 3, 3);
     margin-top: 20px;
     padding: 10px;
     word-spacing: 8px;
-    border: blue 20px outset;
+    border: white 20px outset;
 }
 
 a {
     text-decoration: none;
 }
 
-img {
-    border: skyblue 40px outset;
-    float:right;
+.island {
+    border: skyblue 30px outset;
+    float:left;
 }
-.img {
-    text-align: center;
+
+.shutter {
+    float:right;
 }
 
 h1 {
-    font-size:25px;
+    font-size:95px;
     font-family: Arial, Helvetica, sans-serif;
-    color: purple;
+    color: whitesmoke;
     text-align: center;
 }
 
 h2 {
     font-size:25px;
     font-family: Arial, Helvetica, sans-serif;
-    color: purple;
+    color: whitesmoke;
     text-align: center;
     margin:right;
 
@@ -55,6 +61,16 @@ h2 {
 ol {
 
     border: skyblue 30px inset;
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: rgb(95, 81, 81);
+color: white;
+text-align: center;
 }
 
 
